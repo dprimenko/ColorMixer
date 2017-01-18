@@ -13,7 +13,7 @@
     android:layout_alignTop="@id/swatch"
     android:layout_toRightOf="@id/swatch"
     android:layout_marginLeft="4dip"
-    android:text="@string/red"
+    android:text="R"
     android:textSize="24sp"
   />
   <SeekBar android:id="@+id/red"
@@ -31,7 +31,7 @@
     android:layout_toRightOf="@id/swatch"
     android:layout_marginLeft="4dip"
     android:layout_marginTop="4dip"
-    android:text="@string/green"
+    android:text="G"
     android:textSize="24sp"
   />
   <SeekBar android:id="@+id/green"
@@ -49,7 +49,7 @@
     android:layout_toRightOf="@id/swatch"
     android:layout_marginLeft="4dip"
     android:layout_marginTop="4dip"
-    android:text="@string/blue"
+    android:text="B"
     android:textSize="24sp"
   />
   <SeekBar android:id="@+id/blue"
